@@ -11,8 +11,10 @@ For this data visualization project with Tableau about a bike sharing program in
         
         Data Source:
   - [CitiBike Trip History Data from August 2019 in NYC](https://www.citibikenyc.com/system-data)
+        
         Software:
   - Tableau Public 2021.4
+        
         Languages & Enviroment:
   - Pandas, Python 3.7
     
