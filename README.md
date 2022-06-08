@@ -18,3 +18,18 @@ For this data visualization project with Tableau about a bike sharing program in
         Languages & Enviroment:
   - Pandas, Python 3.7
     
+## Results
+
+![CitiBike_Checkout_Users](https://github.com/RabidZippers/bikesharing/blob/main/bikesharing/Resources/Checkout%20time%20for%20users.png)
+
+
+![CitiBike_Checkout_Gender](https://github.com/RabidZippers/bikesharing/blob/main/bikesharing/Resources/Checkout%20times%20by%20Gender.png))
+
+
+![CitiBike_Trips_Weekday](https://github.com/RabidZippers/bikesharing/blob/main/bikesharing/Resources/Trips%20Weekday.png)
+
+
+![CitiBike_Trips_Gender](https://github.com/RabidZippers/bikesharing/blob/main/bikesharing/Resources/Gender%20by%20weekday%20hour.png)
+
+
+![CitiBike_Trips_Gender_Weekday](https://github.com/RabidZippers/bikesharing/blob/main/bikesharing/Resources/Gender%20by%20Weekday.png)
